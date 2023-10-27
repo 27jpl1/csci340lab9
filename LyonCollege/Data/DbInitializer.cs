@@ -1,7 +1,7 @@
-using ContosoUniversity.Models;
+using LyonCollege.Models;
 using LyonCollege.Data;
 
-namespace ContosoUniversity.Data
+namespace LyonCollege.Data
 {
     public static class DbInitializer
     {

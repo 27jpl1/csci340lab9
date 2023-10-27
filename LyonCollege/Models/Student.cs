@@ -1,4 +1,4 @@
-namespace ContosoUniversity.Models
+namespace LyonCollege.Models
 {
     public class Student
     {
