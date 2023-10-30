@@ -1,7 +1,7 @@
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
 using LyonCollege.Data;
-using LyonCollege.Data;
+using LyonCollegey.Data;
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
